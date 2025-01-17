@@ -10,7 +10,7 @@ function Landing() {
             <div className="masker">
               <div className="w-fit flex ">
                 {index === 1 && (
-                  <div className="w-[7.5vw] min-h-[4.8vw] overflow-hidden relative top-[.5vw] rounded-xl">
+                  <div className="w-[7.5vw] h-[5.1vw] overflow-hidden relative top-[.5vw] rounded-md">
                     <img
                       className="h-[5.5vw]"
                       src="https://ochi.design/wp-content/uploads/2022/04/content-image01.jpg"
